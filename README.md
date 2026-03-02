@@ -51,8 +51,8 @@ Check the code here: [my-react-app](https://github.com/Shrabani-Mishra/my-react-
 - Learn useState for interactive components.
 
 - 
-Day-3
-# My React App - Netflix Series Cards
+
+# My React App - Netflix Series Cards Day-3
 
 A responsive Netflix-style React application that displays a list of TV series as interactive cards. Each card shows the series name, rating, genre, cast, description, and a "Watch Now" button.
 
