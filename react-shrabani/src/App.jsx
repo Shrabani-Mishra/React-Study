@@ -8,14 +8,14 @@
 // export const App=()=>{
 //   return React.createElement("h1",null,"welcome to react shrabani");
 // }
-import NetflixSeries, { Header, Footer } from "./components/NetflixSeries";
+import NetflixSeries from "./components/NetflixSeries";
 
 export const App = () => {
   return (
     <>
-      <Header />
+      
       <NetflixSeries />
-      <Footer />
+    
     </>
   );
 };
