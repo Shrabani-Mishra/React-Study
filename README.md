@@ -49,6 +49,8 @@ Check the code here: [my-react-app](https://github.com/Shrabani-Mishra/my-react-
 - Make NetflixSeries dynamic using props.
 - Practice mapping arrays to render multiple series.
 - Learn useState for interactive components.
+
+- 
 Day-3
 # My React App - Netflix Series Cards
 
