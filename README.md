@@ -49,3 +49,64 @@ Check the code here: [my-react-app](https://github.com/Shrabani-Mishra/my-react-
 - Make NetflixSeries dynamic using props.
 - Practice mapping arrays to render multiple series.
 - Learn useState for interactive components.
+Day-3
+# My React App - Netflix Series Cards
+
+A responsive Netflix-style React application that displays a list of TV series as interactive cards. Each card shows the series name, rating, genre, cast, description, and a "Watch Now" button.
+
+---
+
+## 🔥 Features
+
+- Fully **responsive layout**:
+  - Desktop → 3 cards per row
+  - Tablet → 2 cards per row
+  - Mobile → 1 card per row
+- **Reusable components** using React props
+- Dynamic **series data mapping** from JSON
+- Professional **card styling**:
+  - Hover lift animation
+  - Shadow effect
+  - Rounded corners
+  - Netflix-red themed buttons
+- Interactive **Watch Now** buttons with external links
+- Easy to extend with more series or components
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend:** React (JSX)
+- **Styling:** CSS (grid layout, responsive media queries)
+- **Data:** Local JSON (`seriesData.json`)
+
+---
+
+## 📂 Project Structure
+
+my-react-app/
+├── src/
+│ ├── api/
+│ │ └── seriesData.json
+│ ├── components/
+│ │ ├── NetflixSeries.jsx
+│ │ ├── SeriesCard.jsx
+│ │ └── netflixseries.css
+│ ├── App.jsx
+│ └── main.jsx
+├── package.json
+└── README.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
