@@ -1,8 +1,10 @@
+// ProFile is  PARENNT COMPONENT and ProfileCard is a CHILD COMPONENT
 const ProFile=()=>{
 return(
     <>
     <h1>Profile Card Challange</h1>
-    <ProfileCard 
+    {/* ProfileCard is a cgild component */}
+    <ProfileCard   
     name="Alice"
     age={30}
     grettings={

@@ -49,30 +49,38 @@ h2 {
 
 /* Rating */
 h3 {
-  color: #e50914;
+  /* color: #e50914; */
   margin-bottom: 8px;
+} 
+.highRating {
+  color: rgb(68, 241, 68);
+  font-weight: bold;
+}
+
+.lowRating {
+  color: red;
 }
 
 /* Text */
 p {
   font-size: 14px;
-  color: #cccccc;
+  /* color: #cccccc; */
   margin-bottom: 6px;
 }
 
 /* Button */
-button {
+/* button {
   padding: 8px 14px;
   background: #e50914;
   border: none;
   border-radius: 6px;
   color: white;
   cursor: pointer;
-}
+} */
 
-button:hover {
+/* button:hover {
   background: #b20710;
-}
+} */
 
 /* ===== Tablet ===== */
 @media (max-width: 992px) {

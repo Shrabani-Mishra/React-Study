@@ -116,18 +116,9 @@ my-react-app/
 │ └── main.jsx
 ├── package.json
 └── README.md
+...... style={{ }}
+In React, inline styles are written as a JavaScript object.
 
 
 
 
-
-
-
-
-
-
-
-
-
-
->>>>>>> d25869a2bf244d690e96f448dd688287e496cccd

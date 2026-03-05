@@ -1,6 +1,7 @@
 import seriesData from "../api/seriesData.json";
 import { SeriesCard } from "./list";
-import "./NetflixSeries.css";
+// import "./components/Netflix.module.css";
+
 const NetflixSeries = () => {
   return (
     <ul>
